@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import Footer from './components/Footer'
 import Service from './components/Service'
 import About from './components/About'
+import Work from './components/Work'
 function App() {
   return (
     <div className='font-primary overflow-hidden'>
@@ -12,6 +13,7 @@ function App() {
       <Hero/>
       <Service/>
       <About/>
+      <Work/>
       <Footer/>
     </div>
   )

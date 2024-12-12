@@ -4,7 +4,7 @@ import { TbCircleArrowRightFilled } from 'react-icons/tb'
 const Hero = () => {
   return (
    <section id='home' className='bg-heroBg flex justify-center items-center pt-28 text-white md:h-screen'>
-    <div className='container mx-auto h-full flex flex-col md:flex-row items-center justify-between p-8 overflow-y-hidden gap-12 h-full'>
+    <div className='container mx-auto flex flex-col md:flex-row items-center justify-between p-8 overflow-y-hidden gap-12 h-full'>
         {/* left side */}
 
         <div className='md:w-1/2 h-full'>

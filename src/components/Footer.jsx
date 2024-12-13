@@ -4,7 +4,7 @@ import { FaEnvelope, FaFacebookF, FaMapMarkerAlt, FaPhoneAlt, FaYoutube } from '
 import { FaInstagram, FaX } from 'react-icons/fa6'
 const Footer = () => {
   return (
-   <div className='py-2 bg-grey px-8'>
+   <div className='py-2 bg-grey px-8 mt-12'>
 
     <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 sm:grid-cols-2 gap-8">
         <div className='space-y-6 mr-14'>

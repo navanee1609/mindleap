@@ -8,6 +8,7 @@ import About from './components/About'
 import Work from './components/Work'
 import Pricing from './components/Pricing'
 import Testimonial from './components/Testimonial'
+import Contact from './components/Contact'
 function App() {
   return (
     <div className='font-primary overflow-hidden'>
@@ -18,6 +19,7 @@ function App() {
       <Work/>
       <Pricing/>
       <Testimonial/>
+      <Contact/>
       <Footer/>
     </div>
   )
